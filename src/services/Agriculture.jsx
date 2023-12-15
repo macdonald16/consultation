@@ -24,7 +24,7 @@ const Agriculture = () => {
           <h1 className=" border-t border-black pt-4">HOW WE HELP CLIENTS</h1>
           <div className="grid grid-cols-4 items-center justify-between gap-8 pt-8">
             <div >
-               <h1>Agriculture <br/>Development & Food Security</h1>
+               <h1>Agriculture Development & <br/> Food Security</h1>
                <p className='pt-4'>We help to improve agri-food aystems around around the world by bringing innovative thinking, multi-disciplinary expertise, a nuanced understanding of the private sector, and world-class analytics.</p>
             </div>
             <div>
