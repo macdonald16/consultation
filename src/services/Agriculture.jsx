@@ -25,37 +25,36 @@ const Agriculture = () => {
           </div>
           <div className="pt-8">
             <h1 className="border-t border-black pt-4">HOW WE HELP CLIENTS</h1>
-           
-            <div className="grid md:grid-cols-4 items-center justify-between gap-8 pt-8">
+            <div className="grid grid-cols-4 items-center justify-between gap-8 pt-8">
               <div className="bg-match-height hover:shadow-xl py-8 px-4">
                 <h1 className="text-xl hover:underline hover:text-blue-800">
                   Agriculture Development & <br /> Food Security
                 </h1>
-                <p className="pt-4">
+                <p className="pt-2 px-4 py-2">
                   We help to improve agri-food systems around around the world by bringing innovative thinking, multi-disciplinary expertise, a nuanced understanding of the private sector, and world-class analytics.
                 </p>
               </div>
-              <div className="bg-match-height hover:shadow-xl py-8 px-4">
-                <h1 className="text-xl hover:underline hover:text-blue-800">
+              <div className=" hover:shadow-xl ">
+                <h1 className="text-xl hover:underline hover:text-blue-800 px-4 py-2">
                   Digital
                 </h1>
-                <p className="pt-2">
+                <p className="pt-2 px-4 py-2">
                   We Combine the power of our deep-domain expertise in agriculture with thousands of developers, engineers, data architects, and scientists across the technology spectrum.
                 </p>
               </div>
-              <div className="bg-match-height hover:shadow-xl py-8 px-4">
-                <h1 className="text-xl hover:underline hover:text-blue-800">
+              <div className=" hover:shadow-xl ">
+                <h1 className="text-xl hover:underline hover:text-blue-800 px-4 py-2">
                   Investment
                 </h1>
                 <p className="pt-2 px-4 py-2">
                   We combine leading-edge investor insights honed by our private equity experts with agriculture-market insights and proprietary tools to help clients with range of their needs.
                 </p>
               </div>
-              <div className="bg-match-height hover:shadow-xl py-8 px-4 ">
+              <div className="bg-match-height hover:shadow-xl py-8 px-4">
                 <h1 className="text-xl hover:underline hover:text-blue-800">
                   Marketing & Sales
                 </h1>
-                <p className="pt-2 px-4 py-2">
+                <p className="pt-2">
                   Achieve commercial excellence through go-to-market strategy, pricing optimization, sales and execution.
                 </p>
               </div>
