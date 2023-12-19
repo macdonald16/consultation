@@ -52,7 +52,7 @@ const Agriculture = () => {
                   Marketing & Sales
                 </h1>
                 <p className="pt-8 px-4 py-2">
-                  Achieve commercial excellence through go-to-market strategy, pricing optimization, sales and execution.
+                  Achieve commercial excellence through go-to-market strategy,pricing optimization, sales and execution.
                 </p>
               </div>
             </div>
