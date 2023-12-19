@@ -4,7 +4,7 @@ const Agri = () => {
   return (
     <div className="">
       <div className="w-11/12 mx-auto justify-between">
-        <div className="grid grid-cols-2 gap-10">
+        <div className="grid md:grid-cols-2 gap-10">
           <div>
             <h1 className='mb-5'>Land Acquisition</h1>
             <img src={gh} style={{width: '100%', height:'75%'}} />
@@ -21,7 +21,7 @@ const Agri = () => {
             </p> 
           </div>
           <div>
-            <h1 className='mb-5'>Finacial Solutions123</h1>
+            <h1 className='mb-5'>Finacial Solutions</h1>
             <p> We offer unparalleled consulting services to help agricultural business optimize their finacial perfomance and achieve sustnaible growth. Our dedicated team of finacial experts understands finacial complex of industry and provide tailored solutions from finacial planning and risk management to investment strategies and capital allocation, we work closely with you to develop  comprehensive finacial strategies that drive value and mitigate risks. </p>
             
           </div>

@@ -8,7 +8,7 @@ const Agriculture = () => {
       <div className="w-fit">
         <div className="w-11/12 mx-auto justify-between gap-4">
           <div
-            className="grid grid-cols-2 h-25vh p-12 mt-10"
+            className="grid md:grid-cols-2 h-25vh p-12 mt-10"
             style={{ background: 'linear-gradient(to top, #071952, #000000)' }}
           >
             <div className="">
@@ -24,8 +24,8 @@ const Agriculture = () => {
             </div>
           </div>
           <div className="pt-8">
-            <h1 className="border-t border-black pt-4">HOW WE HELP CLIENTS</h1>
-            <div className="grid grid-cols-4 items-center justify-between gap-8 pt-8">
+            <h1 className="border-t border-black pt-4">HOW WE HELP CLIENTS </h1>
+            <div className="grid lg:grid-cols-4 items-center justify-between gap-8 pt-8">
               <div className="bg-match-height hover:shadow-xl py-8 px-4">
                 <h1 className="text-xl hover:underline hover:text-blue-800">
                   Agriculture Development & <br /> Food Security
